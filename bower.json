@@ -1,0 +1,5 @@
+{
+    "name": "angularBoostrapPagination",
+    "version": "0.0.1",
+    "main": "dist/ui-bootstrap-custom.js"
+}
