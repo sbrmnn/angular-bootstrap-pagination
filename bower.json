@@ -1,5 +1,6 @@
 {
-    "name": "angularBoostrapPagination",
+    "name": "angular-bootstrap-pagination",
+    "ignore": [],
     "version": "0.0.1",
     "main": "dist/ui-bootstrap-custom.js"
 }
